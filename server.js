@@ -4,8 +4,6 @@ import mongoose from "mongoose";
 import data from "./data.js";
 import Videos from "./dbModel.js";
 
-// 8IY4dQ5w5Dhs35pc
-
 //App config
 const app = express();
 const port = process.env.PORT || 9000;
